@@ -66,3 +66,13 @@ Please do __NOT__ include any of the project data sets provided in the `dogImage
 ### Ready to submit your project?
 
 Click on the "Submit Project" button in the classroom and follow the instructions to submit!
+
+
+### To zip your folder inside jupyter
+
+Now you want to zip the dog-project folder.
+
+1>Click on the orange Jupyter circle on the top left of the workspace(Dogproject.ipynb).
+2>You will see dog-project folder. Now don't go inside it.
+3>Open Terminal by Clicking New(look right ) -> Terminal.
+4>Zip the dog-project folder with the following command in the terminal:  zip -r dog-project.zip dog-project
